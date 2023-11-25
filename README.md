@@ -20,7 +20,7 @@ Simple QR component project to train my knowledge on HTML and CSS with flexbox
 ![scr02](https://github.com/LindermanBR/Frontend-Mentor-QR-code-component/assets/31388561/be1dec8a-716d-4c8d-b0e4-9b5dfe4dcbf9)
 
 ### Links
-- Live Site URL: [Github Pages](https://lindermanbr.github.io/BreadcrumbsFrontend-Mentor-QR-code-component)
+- Live Site URL: [Github Pages](https://lindermanbr.github.io/Frontend-Mentor-QR-code-component)
 
 ## Author
 
